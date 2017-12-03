@@ -1,2 +1,3 @@
-# Homebrew-D6-WoD-
-based on open D6 mechanic and WoD character sheet SciFi 
+# Homebrew-D6-WoD-polish lang.
+karta w trakcie tworzenia...
+bazujaca na mechanice D6 i wzorcu WoD karta postaci do systemow Sci Fi  
